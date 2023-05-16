@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/css/main.c4682943.css",
-    "main.js": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/js/main.fd4bd6e6.js",
-    "static/js/787.3d6454e7.chunk.js": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/js/787.3d6454e7.chunk.js",
-    "index.html": "/egarza27/JS411_Punk-Api-React-App/tree/master/index.html",
-    "main.c4682943.css.map": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/css/main.c4682943.css.map",
-    "main.fd4bd6e6.js.map": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/js/main.fd4bd6e6.js.map",
-    "787.3d6454e7.chunk.js.map": "/egarza27/JS411_Punk-Api-React-App/tree/master/static/js/787.3d6454e7.chunk.js.map"
+    "main.css": "/JS411_Punk-Api-React-App/static/css/main.c4682943.css",
+    "main.js": "/JS411_Punk-Api-React-App/static/js/main.b0868190.js",
+    "static/js/787.3d6454e7.chunk.js": "/JS411_Punk-Api-React-App/static/js/787.3d6454e7.chunk.js",
+    "index.html": "/JS411_Punk-Api-React-App/index.html",
+    "main.c4682943.css.map": "/JS411_Punk-Api-React-App/static/css/main.c4682943.css.map",
+    "main.b0868190.js.map": "/JS411_Punk-Api-React-App/static/js/main.b0868190.js.map",
+    "787.3d6454e7.chunk.js.map": "/JS411_Punk-Api-React-App/static/js/787.3d6454e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4682943.css",
-    "static/js/main.fd4bd6e6.js"
+    "static/js/main.b0868190.js"
   ]
 }
